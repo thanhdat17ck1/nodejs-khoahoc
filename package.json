@@ -1,0 +1,26 @@
+{
+  "name": "khoahoc",
+  "version": "1.0.0",
+  "description": "datDEV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhdat17ck1/nodejs-khoahoc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhdat17ck1/nodejs-khoahoc/issues"
+  },
+  "homepage": "https://github.com/thanhdat17ck1/nodejs-khoahoc#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
